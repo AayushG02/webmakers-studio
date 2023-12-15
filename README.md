@@ -5,12 +5,12 @@
 Clone repository
 
 ```bash
-git clone https://github.com/your-username/webmakers-studio.git
+git clone https://github.com/AayushG02/webmakers-studio.git
 ```
 Install dependencies:
 
 ```bash
-cd webmakers-studios-task
+cd webmakers-studio
 npm install
 ```
 Start the local server:
