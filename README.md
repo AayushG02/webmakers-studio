@@ -5,7 +5,7 @@
 Clone repository
 
 ```bash
-git clone https://github.com/your-username/webmakers-studios-task.git
+git clone https://github.com/your-username/webmakers-studio.git
 ```
 Install dependencies:
 
